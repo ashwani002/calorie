@@ -1,0 +1,6 @@
+GET http://localhost:5000/api/testss/6396c803a2b382a08112f6fe
+
+GET  http://localhost:5000/api/userdetails
+
+
+POST http://localhost:5000/api/signup/
